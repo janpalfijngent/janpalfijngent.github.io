@@ -713,7 +713,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-family:"NettoOT";
 	text-transform:uppercase;
 	letter-spacing:1px;
-	font-size:18px;
+	font-size:22px;
 	text-align:right;
 }
 .row-voorwoord{
@@ -850,7 +850,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .h2-acuut-style{
 	font-family:"NettoOT-Black";
-	color:#C5D400!important;
 }
 .h2-6-style{
 	font-family:"NettoOT-Black";
@@ -884,6 +883,63 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	width:19%;
 	margin:0.5% 0.5% 0.5% 0.5%;
 }
+.h1-style{
+	font-family:"NettoOT-Black";
+}
+.active-link{
+	font-family:"NettoOT-Black";
+	color:#00638D!important;
+	font-size:20px;
+}
+.pink{
+	color:#FF9CA9!important;
+}
+.cards-materniteit .col-md-3{
+	background-color:rgba(247,178,185,0.10);
+	border-style:solid;
+	border-color:#F6B2B9!important;
+	border-width:1px 1px 1px 1px;
+}
+.cards-materniteit h3{
+	color:#EA92A1!important;
+}
+.cards-materniteit p{
+	color:#E08292!important;
+}
+.h2-zorgcijfers-style{
+	font-family:"NettoOT-Black";
+	color:#00A4AF!important;
+	font-size:40px;
+}
+.h2-color{
+	color:#00a5af;
+	font-family:"NettoOT-Black";
+}
+.cards-fertiliteit .col-md-3{
+	background-color:rgba(95,74,137,0.10);
+	border-color:#5F4989!important;
+	border-style:solid;
+	border-radius:5px 5px 5px 5px;
+	border-width:1px 1px 1px 1px;
+}
+.cards-fertiliteit h3{
+	font-family:"NettoOT-Bold";
+	color:#5F4989!important;
+	background-color:transparent;
+}
+.cards-fertiliteit p{
+	color:#4C3A77!important;
+}
+.container-100vh{
+	height:100vh;
+	background-image:url("img/AZ%20Jan%20Palfijn%20041%20-web.jpg");
+}
+.p-bloc-5-style{
+	font-size:18px;
+}
+.padding-50{
+	padding:100px 100px 100px 100px;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -910,6 +966,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .tc-white{
 	color:#FFFFFF!important;
+}
+.tc-dark-lavender{
+	color:#5F4989!important;
 }
 .tc-light-sea-green{
 	color:#18A2AD!important;
@@ -1102,6 +1161,28 @@ transition: all 0.2s ease-in-out;
  -webkit-transform: scale(1.05);
  transform: scale(1.05);
 }
+
+.pink {
+color: #f3a1ab!important;
+}
+
+.light-blue {
+color: #18a2ad!important;
+}
+
+.dark-blue {
+color: #00628a!important;
+}
+
+.active-link {
+font-family: "NettoOT-Black"!important;
+color: #00628a!important;
+}
+
+.nav-list {
+column-gap: 2rem;
+}
+
 
 
 /* = Bloc Padding Multi Breakpoint

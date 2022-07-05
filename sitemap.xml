@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>jaarverslag2021-azjp</loc>
-	<lastmod>2022-07-04</lastmod>
+	<lastmod>2022-07-05</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -15,8 +15,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>jaarverslag2021-azjp/voorwoord.html</loc>
-	<lastmod>2022-07-04</lastmod>
+	<loc>jaarverslag2021-azjp/voorwoord/</loc>
+	<lastmod>2022-07-05</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -33,8 +33,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>jaarverslag2021-azjp/hoogtepunten.html</loc>
-	<lastmod>2022-07-04</lastmod>
+	<loc>jaarverslag2021-azjp/colofon/</loc>
+	<lastmod>2022-07-05</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -47,8 +47,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>jaarverslag2021-azjp/erkende-bedden.html</loc>
-	<lastmod>2022-07-04</lastmod>
+	<loc>jaarverslag2021-azjp/erkende-bedden/</loc>
+	<lastmod>2022-07-05</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -109,16 +109,32 @@
 	</image:image>
 </url>
 <url>
-	<loc>jaarverslag2021-azjp/kerncijfers.html</loc>
-	<lastmod>2022-07-04</lastmod>
+	<loc>jaarverslag2021-azjp/kerncijfers/</loc>
+	<lastmod>2022-07-05</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>jaarverslag2021-azjp/img/Geriatrie.svg</image:loc>
+	<image:loc>jaarverslag2021-azjp/img/klinische%20opnames.svg</image:loc>
 	<image:title>placeholder image</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>jaarverslag2021-azjp/img/placeholder-image.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>jaarverslag2021-azjp/img/Medewerkers.svg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>jaarverslag2021-azjp/img/Artsen.svg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>jaarverslag2021-azjp/img/Studenten.svg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>jaarverslag2021-azjp/img/Vrijwilligers.svg</image:loc>
 	<image:title>placeholder image</image:title>
 	</image:image>
 	<image:image>
@@ -131,8 +147,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>jaarverslag2021-azjp/covid-19.html</loc>
-	<lastmod>2022-07-04</lastmod>
+	<loc>jaarverslag2021-azjp/covid-19/</loc>
+	<lastmod>2022-07-05</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -179,6 +195,20 @@
 	<image:loc>jaarverslag2021-azjp/img/AZJP_Lln-Sint-Barbara_005.jpg</image:loc>
 	<image:title>placeholder image</image:title>
 	</image:image>
+	<image:image>
+	<image:loc>jaarverslag2021-azjp/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>jaarverslag2021-azjp/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>jaarverslag2021-azjp/hoogtepunten/</loc>
+	<lastmod>2022-07-05</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
 	<image:image>
 	<image:loc>jaarverslag2021-azjp/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
