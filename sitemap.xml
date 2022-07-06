@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>jaarverslag2021-azjp</loc>
-	<lastmod>2022-07-05</lastmod>
+	<lastmod>2022-07-06</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -16,7 +16,7 @@
 </url>
 <url>
 	<loc>jaarverslag2021-azjp/voorwoord/</loc>
-	<lastmod>2022-07-05</lastmod>
+	<lastmod>2022-07-06</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -34,7 +34,7 @@
 </url>
 <url>
 	<loc>jaarverslag2021-azjp/colofon/</loc>
-	<lastmod>2022-07-05</lastmod>
+	<lastmod>2022-07-06</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -48,7 +48,7 @@
 </url>
 <url>
 	<loc>jaarverslag2021-azjp/erkende-bedden/</loc>
-	<lastmod>2022-07-05</lastmod>
+	<lastmod>2022-07-06</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -110,7 +110,7 @@
 </url>
 <url>
 	<loc>jaarverslag2021-azjp/kerncijfers/</loc>
-	<lastmod>2022-07-05</lastmod>
+	<lastmod>2022-07-06</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -148,7 +148,7 @@
 </url>
 <url>
 	<loc>jaarverslag2021-azjp/covid-19/</loc>
-	<lastmod>2022-07-05</lastmod>
+	<lastmod>2022-07-06</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -206,9 +206,17 @@
 </url>
 <url>
 	<loc>jaarverslag2021-azjp/hoogtepunten/</loc>
-	<lastmod>2022-07-05</lastmod>
+	<lastmod>2022-07-06</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
+	<image:image>
+	<image:loc>jaarverslag2021-azjp/img/valpreventiebeleid.jpg</image:loc>
+	<image:title>...</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>jaarverslag2021-azjp/img/placeholder-image.png</image:loc>
+	<image:title>...</image:title>
+	</image:image>
 	<image:image>
 	<image:loc>jaarverslag2021-azjp/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
