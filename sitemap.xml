@@ -33,10 +33,18 @@
 	</image:image>
 </url>
 <url>
-	<loc>jaarverslag2021-azjp/colofon/</loc>
+	<loc>jaarverslag2021-azjp/info/</loc>
 	<lastmod>2022-07-07</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
+	<image:image>
+	<image:loc>jaarverslag2021-azjp/img/placeholder-image.png</image:loc>
+	<image:title>Image Alt</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>jaarverslag2021-azjp/img/placeholder-image.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
 	<image:image>
 	<image:loc>jaarverslag2021-azjp/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
