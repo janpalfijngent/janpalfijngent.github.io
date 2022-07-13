@@ -908,10 +908,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .cards-fertiliteit p{
 	color:#4C3A77!important;
 }
-.container-100vh{
-	height:100vh;
-	background-image:url("img/AZ%20Jan%20Palfijn%20041%20-web.jpg");
-}
 .p-bloc-5-style{
 	font-size:18px;
 }
@@ -2268,6 +2264,11 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	-moz-transform:scale(1.4) translate(-25px,0px)}}
 /* = Additional CSS
 -------------------------------------------------------------- */
+.container-100 {
+height: 100vh;
+background-image: url(img/AZ%20Jan%20Palfijn%20041%20-web.jpg);
+}
+
 .btn-style-landing:hover {
 color: #FFFFFF!important;
 background-color: #00638D!important;
@@ -2373,11 +2374,29 @@ width: 49%;
 .bloc-sm {
 padding: 0;
 }
+
+.container-100 {
+max-height: 20vh;
+}
 }
 
 @media only screen and (max-width: 576px) {
 .col-5-cards .col-md-3, .cards-fertiliteit .col-md-3, .cards-materniteit .col-md-3, .cards-kerncijfers .col-md-3 {
 width: 100%;
+}
+}
+
+@media only screen and (max-width: 991px) {
+.modal-designer-data[data-max-width="Full Width"] .modal-content {
+margin-left: 5%;
+margin-right: 5%;
+}
+}
+
+@media only screen and (min-width: 992px) {
+.modal-designer-data[data-max-width="Full Width"] .modal-content {
+margin-left: 15%;
+margin-right: 15%;
 }
 }
 
@@ -2442,9 +2461,7 @@ width: 3px!important;
 }
 
 @media only screen and (min-width: 576px) {
-.modal-dialog {
-max-width: 80vw!important;
-}
+
 .modal-designer-data[data-img-status="1"] .img-col {
 min-height:500px;
 }
@@ -2478,11 +2495,13 @@ font-size: 50px;
 .text-45 {
 font-size: 25px;
 }
+
+.btn-style-landing {
+font-size: 16px;
+}
 }
 
-#tab1-2, #tab1-1, #tab1-3 {
-padding: 0px 50px 50px 50px;
-}
+
 
 .cards-info h3 {
 min-height: 80px;
@@ -2529,14 +2548,7 @@ padding: 50px;
 }
 }
 
-.content-col {
-rgba(255,255,255,0.7)
-}
 
-.modal-designer-data[data-max-width="Full Width"] .modal-content {
-margin-left: 15%;
-margin-right: 15%;
-}
 
 .modal-designer-data.radius1[data-position="0"]:not([data-max-width="Small"]) .content-col {
 border-radius: 0.3rem;
