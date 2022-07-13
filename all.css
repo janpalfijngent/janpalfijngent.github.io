@@ -811,7 +811,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	height:500px;
 }
 .padding-top-10{
-	padding-top:15%;
+	padding-top:10%;
 	padding-bottom:5%;
 }
 .column-with-photo{
@@ -1007,6 +1007,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .bgc-light-sea-green{
 	background-color:#18A2AD;
+}
+.bgc-light-sea-green-2{
+	background-color:rgba(24,162,173,0.15);
 }
 
 /* Text colour styles */
@@ -2546,6 +2549,14 @@ text-align: left;
 .row-voorwoord {
 padding: 50px;
 }
+
+#bloc-18 .col-md-3.text-center {
+width:50%
+}
+
+#bloc-18 .bloc-lg {
+padding: 0;
+}
 }
 
 
@@ -2642,10 +2653,19 @@ margin-top: 5%;
 	.h1-voorwoord-style{
 		text-align:center;
 	}
+	.container-100{
+	}
 	
 	/* MD Row Margin Offsets */
 	.voffset-md{
 		margin-top:30px;
+	}
+	
+}
+
+@media (max-width: 767px){
+	.padding-top-10{
+		padding-top:20%;
 	}
 	
 }
