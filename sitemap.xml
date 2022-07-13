@@ -294,10 +294,6 @@
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>jaarverslag2021-azjp/img/valpreventiebeleid.jpg</image:loc>
-	<image:title>...</image:title>
-	</image:image>
-	<image:image>
 	<image:loc>jaarverslag2021-azjp/img/pit.jpeg</image:loc>
 	<image:title>...</image:title>
 	</image:image>
@@ -336,6 +332,14 @@
 	<image:image>
 	<image:loc>jaarverslag2021-azjp/img/Frank%20Vervaeke.webp</image:loc>
 	<image:title>...</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>jaarverslag2021-azjp/img/placeholder-image.png</image:loc>
+	<image:title>...</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>jaarverslag2021-azjp/img/valpreventiebeleid.jpg</image:loc>
+	<image:title>image placeholder</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>jaarverslag2021-azjp/img/</image:loc>
