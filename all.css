@@ -803,10 +803,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .foto-vaccins{
 	border-radius:5px 5px 5px 5px;
 }
-.row-corona{
-	padding-right:10%;
-	padding-left:10%;
-}
 .img-bestand-0-style{
 	height:500px;
 }
@@ -913,9 +909,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .padding-50{
 	padding:100px 100px 100px 100px;
-}
-.img-eerste-vacci-style{
-	max-width:90%;
 }
 .h3-bloc-23-style{
 	font-family:"NettoOT-Bold";
@@ -2368,6 +2361,10 @@ column-gap: 2rem;
 border-right: 1px solid #18a2ad;
 padding-right: 25px;
 }
+
+.row-corona {
+padding: 0 10% 0 10%;
+}
 }
 
 @media only screen and (max-width: 991px) {
@@ -2381,6 +2378,14 @@ padding: 0;
 .container-100 {
 max-height: 20vh;
 }
+
+.row-corona .bloc-lg {
+padding: 0;
+}
+
+.row-corona .covid-column-2 {
+padding: 10% 5% 5% 5%;
+}
 }
 
 @media only screen and (max-width: 576px) {
@@ -2393,6 +2398,11 @@ width: 100%;
 .modal-designer-data[data-max-width="Full Width"] .modal-content {
 margin-left: 5%;
 margin-right: 5%;
+}
+
+.column-photo {
+padding-top: 0%!important;
+padding-bottom: 5%;
 }
 }
 
@@ -2551,14 +2561,15 @@ padding: 50px;
 }
 
 #bloc-18 .col-md-3.text-center {
-width:50%
+width:50%;
 }
 
-#bloc-18 .bloc-lg {
-padding: 0;
-}
+
 }
 
+#bloc-18 .container .row .col-md-3 .bloc-lg {
+padding: 0!important;
+}
 
 
 .modal-designer-data.radius1[data-position="0"]:not([data-max-width="Small"]) .content-col {
@@ -2666,6 +2677,12 @@ margin-top: 5%;
 @media (max-width: 767px){
 	.padding-top-10{
 		padding-top:20%;
+	}
+	.img-eerste-vacci-style{
+	}
+	.row-corona{
+	}
+	.foto-vaccins{
 	}
 	
 }
