@@ -2376,7 +2376,7 @@ margin-top: 25px;
 
 .navbar {
 background-color: white;
-z-index: 1;
+z-index: 10000;
 width: 100%;
 margin-left: 0;
     margin-right: 0;
@@ -2470,6 +2470,13 @@ padding-bottom: 5%;
 }
 }
 
+@media only screen and (min-width: 579px) and (max-width: 675px){
+
+.modal-designer-data .halfspace {
+width:100%!important;
+}
+}
+
 @media only screen and (min-width: 600px) and (max-width: 599px){
 
 .cards-info .col-md-3 {
@@ -2500,6 +2507,13 @@ width:100%!important;
 .cards-info .col-md-3 {
 height: 495px;
 }
+
+.modal-designer-data .halfspace {
+width:100%!important;
+}
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1140px){
 
 .modal-designer-data .halfspace {
 width:100%!important;
