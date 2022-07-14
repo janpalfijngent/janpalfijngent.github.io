@@ -2752,6 +2752,11 @@ border-radius: 0 0 0.3rem 0.3rem!important;
 border-radius: 0.3rem 0.3rem 0 0!important;
 }
 
+.modal-designer-data#modal-designer-1 .img-col::before {
+    background-image: url(https://jaarverslag-janpalfijn.be/img/valpreventiebeleid.jpg) !important; 
+
+}
+
 
 /* = Bloc Padding Multi Breakpoint
 -------------------------------------------------------------- */
