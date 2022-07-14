@@ -2490,12 +2490,19 @@ height: 340px;
 .cards-info .col-md-3 {
 height: 425px;
 }
+.modal-designer-data .halfspace {
+width:100%!important;
+}
 }
 
 @media only screen and (min-width: 790px) and (max-width: 991px){
 
 .cards-info .col-md-3 {
 height: 495px;
+}
+
+.modal-designer-data .halfspace {
+width:100%!important;
 }
 }
 
