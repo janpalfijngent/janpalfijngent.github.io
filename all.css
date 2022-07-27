@@ -717,7 +717,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .row-voorwoord{
 	border-style:_popUpItemAction:;
-	padding:50px 100px 50px 100px;
+	padding:50px 50px 50px 50px;
 	border-radius:5px 5px 5px 5px;
 }
 .row-voorwoord .row{
@@ -1084,10 +1084,10 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	background-color:#FFFFFF;
 }
 .bgc-light-sea-green{
-	background-color:#18A2AD;
+	background-color:rgba(24,162,173,0.15);
 }
 .bgc-light-sea-green-2{
-	background-color:rgba(24,162,173,0.15);
+	background-color:#18A2AD;
 }
 
 /* Text colour styles */
@@ -2530,24 +2530,6 @@ width: 3px!important;
 .modal-designer-data[data-img-status="1"] .img-col {
 min-height:500px;
 }
-
-.text-150 {
-font-size: 150px;
-line-height: 75px;
-}
-
-.text-100 {
-font-size: 80px;
-color: white;
-text-align: right;
-}
-
-.text-45 {
-font-size: 30px;
-text-align: right;
-text-transform: uppercase;
-margin-top: 25px;
-}
 }
 
 div.modal-content.null.blocs-lb-container {
@@ -2651,10 +2633,6 @@ text-align: left;
 .p-bloc-2-style, .p-bloc-4-style {
 font-size: 18px;
 text-align: left;
-}
-
-.row-voorwoord {
-padding: 50px;
 }
 
 #bloc-18 .col-md-3.text-center {
@@ -2802,8 +2780,8 @@ border-radius: 0.3rem 0.3rem 0 0!important;
 	.container-modal-bloc{
 	}
 	.row-voorwoord{
-		padding-right:50px;
-		padding-left:50px;
+		padding-right:25px;
+		padding-left:25px;
 	}
 	.textbloc{
 	}
@@ -2832,11 +2810,6 @@ border-radius: 0.3rem 0.3rem 0 0!important;
 		margin-top:30px;
 	}
 	
-	/* MD Text Margin Offsets */
-	.mg-clear-md{
-		margin:0;
-	}
-	
 }
 
 @media (max-width: 767px){
@@ -2853,8 +2826,8 @@ border-radius: 0.3rem 0.3rem 0 0!important;
 		font-size:18px;
 	}
 	.row-voorwoord{
-		padding-right:30px;
-		padding-left:30px;
+		padding-right:15px;
+		padding-left:15px;
 		text-align:left;
 	}
 	.h3-bloc-2-style{
@@ -2898,6 +2871,9 @@ border-radius: 0.3rem 0.3rem 0 0!important;
 	}
 	.btn-style-landing{
 		font-size:14px;
+	}
+	.hero-overlay{
+		background-color:transparent;
 	}
 	
 }
