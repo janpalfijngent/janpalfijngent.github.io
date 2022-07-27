@@ -673,9 +673,11 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .h2-2-style{
 	font-family:"NettoOT-Black";
 	font-size:45px;
+	text-align:left;
 }
 .h3-style{
 	font-size:22px;
+	text-align:left;
 }
 .intro-voorwoord{
 	left:3rem;
@@ -693,6 +695,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .p-bloc-2-style{
 	font-size:20px;
+	text-align:left;
 }
 .img-bloc-2-style{
 	width:307px;
@@ -700,6 +703,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .p-bloc-4-style{
 	font-size:20px;
 	line-height:35px;
+	text-align:left;
 }
 .nav-list{
 	font-family:"NettoOT-Bold";
@@ -2891,6 +2895,8 @@ border-radius: 0.3rem 0.3rem 0 0!important;
 	.p-bloc-4-style{
 		text-align:left;
 	}
+	.container-modal-bloc{
+	}
 	
 	/* MD Row Margin Offsets */
 	.voffset-md{
@@ -2912,6 +2918,11 @@ border-radius: 0.3rem 0.3rem 0 0!important;
 	.btn-beds{
 		font-size:18px;
 	}
+	.row-voorwoord{
+		padding-right:30px;
+		padding-left:30px;
+		text-align:left;
+	}
 	
 }
 
@@ -2920,6 +2931,13 @@ border-radius: 0.3rem 0.3rem 0 0!important;
 		text-align:center;
 	}
 	.textbloc{
+	}
+	.blok-voorwoord{
+		margin:100px 100px 100px 100px;
+	}
+	.row-voorwoord{
+		padding-right:10px;
+		padding-left:10px;
 	}
 	
 }
